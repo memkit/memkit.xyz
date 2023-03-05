@@ -1,7 +1,7 @@
 +++
 author = "memconstant"
 title = "TimeLines a tool for Co-Creators that Value Privacy"
-date = "2023-05-05"
+date = "2023-03-05"
 description = "A record of our fledgling products first steps"
 tags = [
     "prototyping",

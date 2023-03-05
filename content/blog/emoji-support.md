@@ -1,8 +1,8 @@
 +++
 author = "memconstant"
-title = "TimeLines a tool for Co-Creators that Value Privacy"
-date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+title = "sTimeLines a tool for Co-Creators that Value Privacy"
+date = "2023-03-05"
+description = "sA record of our fledgling product's first steps"
 tags = [
     "emoji",
 ]
