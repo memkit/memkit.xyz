@@ -1,6 +1,6 @@
 +++
-author = "Hugo Authors"
-title = "Emoji Support"
+author = "memconstant"
+title = "TimeLines a tool for Co-Creators that Value Privacy"
 date = "2019-03-05"
 description = "Guide to emoji usage in Hugo"
 tags = [
