@@ -11,12 +11,10 @@ tags = [
 
 We are excited to announce that we are showcasing a prototype of our first product, TimeLines.
 
-TimeLines was founded with the purpose of making the world an easier place to grok. We have a problem with many great ideas being lost in the ether when they could be, honestly, on Ethereum.
+In our daily lives we have immeasurable opportunities to capture our moments of inspiration.
 
-While we don't think all ideas, pictures, sounds, and moments need to be trapped in the amber that is the blockchain, we certainly do hope we can make avenues for people in this world to securely store their inspirations, happenings, and moments.
+TimeLines was founded with the purpose of not only making this easier, but keeping privacy and sovereignty as a first-thought, not an after-thought.
 
-This is the spirit with which we are unveiling TimeLines.
-
-May it help people secure their private moments and share them with the rest of the world to benefit all.
+Today we presented our vision, and we'd like to share it with you.
 
 {{< embed-pdf url="TimeLines.pdf" >}}
