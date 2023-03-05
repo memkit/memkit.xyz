@@ -19,11 +19,3 @@ This is the spirit with which we are unveiling TimeLines.
 
 May it help people secure their private moments and share them with the rest of the world to benefit all.
 
-See our slidedeck here:
-
-![PDF]("TimeLines.pdf")
-
-{{< embed-pdf url="TimeLines.pdf" >}}
-
-
-![Slidedeck]()
