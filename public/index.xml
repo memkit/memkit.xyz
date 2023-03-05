@@ -6,15 +6,14 @@
     <description>Recent content on memkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://memkit.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://memkit.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TimeLines</title>
       <link>https://memkit.xyz/products/timelines/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
       
       <guid>https://memkit.xyz/products/timelines/</guid>
-      <description>Ideas are too important to die. We need a way to preserve them, protect them, and free them from megacorps/EULAs.
-Enter Timelines.</description>
+      <description>Ideas are too important to die. We need a way to preserve them, protect them, and free them from megacorps/EULAs.</description>
     </item>
     
     <item>
@@ -26,6 +25,17 @@ Enter Timelines.</description>
       <description>memkit is the brainchild of three founder friends that met at ETHDenver in 2023
 Stanislav Srednyak and David West met during BUIDLweek and had a conversation that would mark the Genesis of Timelines, their first product.
 With the help of Forest Kunecke they smashed together their first prototype.</description>
+    </item>
+    
+    <item>
+      <title>TimeLines, a tool for Co-Creators that Value Privacy</title>
+      <link>https://memkit.xyz/blog/timelines/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://memkit.xyz/blog/timelines/</guid>
+      <description>We are excited to announce that we are showcasing a prototype of our first product, TimeLines.
+TimeLines was founded with the purpose of making the world an easier place to grok. We have a problem with many great ideas being lost in the ether when they could be, honestly, on Ethereum.
+While we don&amp;rsquo;t think all ideas, pictures, sounds, and moments need to be trapped in the amber that is the blockchain, we certainly do hope we can make avenues for people in this world to securely store their inspirations, happenings, and moments.</description>
     </item>
     
     <item>

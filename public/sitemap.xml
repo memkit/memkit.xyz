@@ -5,11 +5,23 @@
     <loc>https://memkit.xyz/products/timelines/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
+    <loc>https://memkit.xyz/</loc>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://memkit.xyz/about/</loc>
     <lastmod>2023-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://memkit.xyz/</loc>
-    <lastmod>2020-06-23T12:33:45+10:00</lastmod>
+    <loc>https://memkit.xyz/blog/</loc>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://memkit.xyz/tags/prototyping/</loc>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://memkit.xyz/tags/</loc>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://memkit.xyz/blog/timelines/</loc>
+    <lastmod>2023-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://memkit.xyz/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
@@ -19,9 +31,5 @@
     <loc>https://memkit.xyz/contact/</loc>
   </url><url>
     <loc>https://memkit.xyz/tags/index/</loc>
-  </url><url>
-    <loc>https://memkit.xyz/blog/</loc>
-  </url><url>
-    <loc>https://memkit.xyz/tags/</loc>
   </url>
 </urlset>

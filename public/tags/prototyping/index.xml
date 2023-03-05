@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on memkit</title>
-    <link>https://memkit.xyz/blog/</link>
-    <description>Recent content in Posts on memkit</description>
+    <title>prototyping on memkit</title>
+    <link>https://memkit.xyz/tags/prototyping/</link>
+    <description>Recent content in prototyping on memkit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://memkit.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://memkit.xyz/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TimeLines, a tool for Co-Creators that Value Privacy</title>
       <link>https://memkit.xyz/blog/timelines/</link>
