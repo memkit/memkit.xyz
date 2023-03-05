@@ -1,6 +1,6 @@
 +++
-author = "memconstant"
-title = "TimeLines, a tool for Co-Creators that Value Privacy"
+author = "mconstant"
+title = "TimeLines, Privacy and Sovereignty for Creators"
 date = "2023-03-05"
 description = "A record of our fledgling products first steps"
 image = "upscaled2.jpg"
@@ -19,3 +19,4 @@ This is the spirit with which we are unveiling TimeLines.
 
 May it help people secure their private moments and share them with the rest of the world to benefit all.
 
+{{< embed-pdf url="TimeLines.pdf" >}}
