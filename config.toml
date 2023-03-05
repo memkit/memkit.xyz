@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Tella"
+baseURL = "https://memkit.xyz"
+title = "memkit"
 author = "username"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "memkit Logo"
     text = "memkit"
 
     # The size parameter is the class name of tailwindcss
@@ -39,15 +39,15 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Distributed Solutions for a Better World"
+    meta_og_title = "memkit"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://memkit.xyz"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_description = "We use a Hugo Theme for OSSProject, Companies, Organization..."
     meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_twitter_site = "@memkit"
+    meta_twitter_creator = "@mconstant_eth"
 
 [menu]
 
@@ -63,12 +63,6 @@ enableRobotsTXT = true
     url = "/about/"
     weight = 3
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
   # Footer Menu
   [[menu.footer]]
     name = "Home"
@@ -77,6 +71,6 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/memkit"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2

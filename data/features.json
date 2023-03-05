@@ -1,18 +1,18 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
+    "title": "Twitter",
+    "description": "Visit us on Twitter.",
+    "icon": "icon-twitter"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
-    "icon": "icon-lightbulb_outline"
+    "title": "Discord",
+    "description": "Join our Discord.",
+    "icon": "icon-discord"
   },
   {
     "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
+    "description": "See our source on Github.",
     "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
+    "link": "https://github.com/memkits"
   }
 ]

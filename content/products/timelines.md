@@ -12,4 +12,4 @@ Ideas are too important to die. We need a way to preserve them, protect them, an
 Enter Timelines. 
 
 
-{{< video "/nyan.mp4" "my-5" >}}
+{{< video "https://web3portal.com/AAAk7PeJlbsLZLjiZOSi4p6xZVR5FPEaFZf87MPl9HvwxA" "my-5" >}}
