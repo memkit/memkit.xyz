@@ -1,6 +1,6 @@
 +++
 author = "memconstant"
-title = "TimeLines a tool for Co-Creators that Value Privacy"
+title = "TimeLines -- a tool for Co-Creators that Value Privacy"
 date = "2023-03-05"
 description = "A record of our fledgling products first steps"
 image = "upscaled2.jpg"
