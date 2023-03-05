@@ -7,9 +7,7 @@ weight: 1
 description: Multisig for Co-Creators
 ---
 
-Ideas are too important to die. We need a way to preserve them, protect them, and free them from megacorps/EULAs.
+Ideas are too important to die. We need a way to preserve them, protect them, and free them from megacorps/EULAs. 
 
-Enter Timelines. 
+{{< vimeo 804832983 >}}
 
-
-{{< video "https://web3portal.com/AAAk7PeJlbsLZLjiZOSi4p6xZVR5FPEaFZf87MPl9HvwxA" "my-5" >}}

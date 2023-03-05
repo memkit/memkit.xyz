@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on memkit</title>
+    <link>https://memkit.xyz/products/</link>
+    <description>Recent content in Products on memkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate><atom:link href="https://memkit.xyz/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TimeLines</title>
+      <link>https://memkit.xyz/products/timelines/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      
+      <guid>https://memkit.xyz/products/timelines/</guid>
+      <description>Ideas are too important to die. We need a way to preserve them, protect them, and free them from megacorps/EULAs.
+Enter Timelines.</description>
+    </item>
+    
+  </channel>
+</rss>
