@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-We are excited to announce that we are showcasing a prototype of our first Product, TimeLines.
+We are excited to announce that we are showcasing a prototype of our first product, TimeLines.
 
 TimeLines was founded with the purpose of making the world an easier place to grok. We have a problem with many great ideas being lost in the ether when they could be, honestly, on Ethereum.
 
