@@ -7,7 +7,8 @@
   {
     "title": "Discord",
     "description": "Join our Discord.",
-    "icon": "icon-discord"
+    "icon": "icon-discord",
+    "link": "https://discord.gg/QUeqDNFWaY"
   },
   {
     "title": "Github",
