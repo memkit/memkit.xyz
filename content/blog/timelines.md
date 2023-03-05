@@ -21,6 +21,8 @@ May it help people secure their private moments and share them with the rest of 
 
 See our slidedeck here:
 
+![PDF]("TimeLines.pdf")
+
 {{< embed-pdf url="TimeLines.pdf" >}}
 
 
