@@ -17,4 +17,4 @@ TimeLines was founded with the purpose of not only making this easier, but keepi
 
 Today we presented our vision, and we'd like to share it with you.
 
-{{< embed-pdf url="TimeLines.pdf" >}}
+[View the TimeLines Slidedeck](../../TimeLines.pdf)
